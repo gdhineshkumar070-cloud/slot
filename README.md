@@ -27,6 +27,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
+<img width="1228" height="456" alt="438631275-bb9d9258-7a77-4618-8133-68555ad26536" src="https://github.com/user-attachments/assets/da9bc07d-0c01-4bd4-bcea-5649012f7542" />
 
 
 ## RESULT
